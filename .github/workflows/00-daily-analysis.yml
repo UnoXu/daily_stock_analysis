@@ -1,3 +1,4 @@
+# chore: trigger scheduler registration for forked repo
 name: 每日股票分析
 
 on:
